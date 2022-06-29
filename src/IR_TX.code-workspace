@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "220629-151056-firebeetle32",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\220629-151056-firebeetle32"
+		},
+		{
+			"name": "220629-160015-firebeetle32",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\220629-160015-firebeetle32"
+		},
+		{
+			"name": "220629-162116-firebeetle32",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\220629-162116-firebeetle32"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"system_error": "c"
+		}
+	}
+}
